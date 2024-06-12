@@ -1,0 +1,64 @@
+/*
+fuetes
+
+font-family: "DM Serif Text", serif;
+
+*/
+main{
+    background-color: rgba(99, 99, 231, 0.457);
+}
+
+
+.presentacion h1{
+    text-align: left;
+    font-family: "DM Serif Text", serif;
+    font-size: 3.125rem;
+}
+
+.presentacion p{
+    text-align: left;
+    font-family: "DM Serif Text", serif;
+    font-size: 1rem;
+    font-weight: 700;
+}
+
+section h2{
+    text-align: center;
+    font-family: "DM Serif Text", serif;
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+section h3{
+    text-align: center;
+    font-family: "DM Serif Text", serif;
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+section h4{
+    text-align: center;
+    font-family: "DM Serif Text", serif;
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+
+.mail{
+    text-align: right;
+    width: 15%;
+    height: 1rem;
+    background-color: white;
+}
+.asunto{
+    text-align: right;
+    width: 15%;
+    height: 1rem;
+    background-color: white;
+}
+.mensaje{
+    text-align: right;
+    width: 15%;
+    height: 5rem;
+    background-color: white;
+}

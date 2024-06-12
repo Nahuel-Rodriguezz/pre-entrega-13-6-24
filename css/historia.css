@@ -1,0 +1,52 @@
+
+
+
+/*
+fuetes
+
+font-family: "DM Serif Text", serif;
+
+*/
+main{
+    background-color: rgba(99, 99, 231, 0.457);
+}
+
+
+main h1{
+    text-align: center;
+    font-family: "DM Serif Text", serif;
+    font-size: 3.125rem;
+}
+
+.texto-uno{
+    font-family: "DM Serif Text", serif;
+}
+
+.uno{
+    width: 400px;
+    height: 300px;
+}
+
+.texto-dos{
+    font-family: "DM Serif Text", serif;
+}
+
+.dos{
+    width: 300px;
+    height: 400px;
+}
+
+main h2{
+    text-align: left;
+    font-family: "DM Serif Text", serif;
+    font-size: 30px;
+}
+
+.tres{
+    width: 300px;
+    height: 450px;
+}
+
+
+
+
